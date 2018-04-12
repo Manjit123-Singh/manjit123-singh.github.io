@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,400');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400|Oswald:300,400');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i');
+
+
+	body{
+
+		margin:0;
+		}
+		header{
+
+			background-color:black;
+			color:white;
+			padding:8px 0px 6px 40px;
+			height:45px;
+
+		}
+		header h1{
+			dispay:inline;
+			font-family: 'Oswald', sans-serif;
+			font-weight:400;
+			font-size:32px;
+			float:left;
+			margin-top:0px;
+			margin-right:10px;
+
+
+		}
+		nav ul{
+
+			display:inline;
+			padding:0px;
+			float:left;
+
+		}
+
+		nav ul li{
+
+			display:inline-block;
+			list-style-type:none;
+			color: white;
+			float: left;
+			margin-left: 12px;
+		}
+		nav ul li a{
+
+			color: white;
+			text-decoration:none;
+
+
+		}
+		#nav{
+			font-family: 'Montserrat', sans-serif;
+
+
+		}
+		.homered{
+			background-color: red;
+			padding: 30px 0px 16px 0px;
+
+
+		}
+		.divider{
+			background-color:red;
+			height:5px;
+
+
+		}
+		.homeblack:hover{
+			background-color:blue;
+			padding: 30px 0px 16px 0px;
+
+
+		}
+
+		.manjit{
+			font-family: 'Raleway', sans-serif;
+			margin:0;
+			padding:9% 5% 0% 55%;
+			font-size: 16px;
+			color:yellow;
+		}
+		.love{
+		font-family: 'Raleway', sans-serif;
+		margin:0.5% 0% 0% 55%;
+		font-size:75px;
+		color:white;
+		background-color:rgba(0, 0,0,0.4); 	
+		display:inline-block;
+		}
+		.family{
+		font-family: 'Oswald', sans-serif;
+			margin:0% 0% 0% 55%;
+			font-size:64px;
+			color:black;
+			display: inline-block;
+		}
+		.photo{
+			margin:0% 0% 0% 55%;
+			background-color:yellow;
+			color:black;
+			font-size:1.4em;
+			height:50px;
+			border:none;
+			cursor:pointer;
+			padding:0 1em;
+			outline:none;
+			font-family: 'Raleway', sans-serif;
+			font-weight: 900;
+		}
+
+
+
+
